@@ -1,0 +1,6 @@
+@LogsWithEfCore_HostAddress = http://localhost:5034
+
+GET {{LogsWithEfCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
